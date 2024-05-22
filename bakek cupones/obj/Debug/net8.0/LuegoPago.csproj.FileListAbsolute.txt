@@ -1,0 +1,116 @@
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/appsettings.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.deps.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.runtimeconfig.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.pdb
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/MySqlConnector.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.csproj.AssemblyReference.cache
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.AssemblyInfo.cs
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.MvcApplicationPartsAssemblyInfo.cs
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.sourcelink.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.LuegoPago.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.build.LuegoPago.props
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LuegoPago.props
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LuegoPago.props
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/scopedcss/bundle/LuegoPago.styles.css
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.csproj.CopyComplete
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/refint/LuegoPago.dll
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.pdb
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.genruntimeconfig.cache
+/home/riwip5-020/Desktop/Cuponera/LuegoPago/obj/Debug/net8.0/ref/LuegoPago.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/appsettings.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.deps.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.runtimeconfig.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/LuegoPago.pdb
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/MySqlConnector.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.csproj.AssemblyReference.cache
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.AssemblyInfoInputs.cache
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.AssemblyInfo.cs
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.MvcApplicationPartsAssemblyInfo.cs
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.sourcelink.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.LuegoPago.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.build.LuegoPago.props
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LuegoPago.props
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LuegoPago.props
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/scopedcss/bundle/LuegoPago.styles.css
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.csproj.CopyComplete
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/refint/LuegoPago.dll
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.pdb
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/LuegoPago.genruntimeconfig.cache
+/home/riwip5-020/Documents/Cuponera/LuegoPago/obj/Debug/net8.0/ref/LuegoPago.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\appsettings.Development.json
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\appsettings.json
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\LuegoPago.exe
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\LuegoPago.deps.json
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\LuegoPago.runtimeconfig.json
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\LuegoPago.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\LuegoPago.pdb
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\MySqlConnector.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SISTEMA\Escritorio\bakek cupones\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.csproj.AssemblyReference.cache
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.AssemblyInfoInputs.cache
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.AssemblyInfo.cs
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.csproj.CoreCompileInputs.cache
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.MvcApplicationPartsAssemblyInfo.cs
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.MvcApplicationPartsAssemblyInfo.cache
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets.build.json
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets.development.json
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets\msbuild.LuegoPago.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets\msbuild.build.LuegoPago.props
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LuegoPago.props
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LuegoPago.props
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\scopedcss\bundle\LuegoPago.styles.css
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.csproj.Up2Date
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.dll
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\refint\LuegoPago.dll
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.pdb
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\LuegoPago.genruntimeconfig.cache
+D:\SISTEMA\Escritorio\bakek cupones\obj\Debug\net8.0\ref\LuegoPago.dll
